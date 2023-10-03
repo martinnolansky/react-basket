@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Sky F1",
+    "type": "Sports",
+    "description": "Watch every race of the season, exclusively on Sky Sports in the UK.",
+    "monthlyCost": "10",
+    "contractLength": "12",
+    "imagePath": "./assets/images/skySportsF1.png"
+  },
+  {
+    "name": "Sky Golf",
+    "type": "Sports",
+    "description": "Great for those who enjoy watching grass and sky in the same show.",
+    "monthlyCost": "10",
+    "contractLength": "12",
+    "imagePath": "./assets/images/SkySportsGolf.png"
+  },
+  {
+    "name": "Sky Tennis",
+    "type": "Sports",
+    "description": "Ideal for those who enjoy tennis beyond Wimbledon.",
+    "monthlyCost": "10",
+    "contractLength": "12",
+    "imagePath": "./assets/images/skySportsTennis.png"
+  },
+  {
+    "name": "Sky Football",
+    "type": "Sports",
+    "description": "Catch every premier league game of the season exclusively on Sky Sports.",
+    "monthlyCost": "15",
+    "contractLength": "12",
+    "imagePath": "./assets/images/SkySportsFootball.png"
+  },
+  {
+    "name": "Sky Horror",
+    "type": "Movies",
+    "description": "Ideal for the horror lover, you get it all. Now in HD",
+    "monthlyCost": "30",
+    "contractLength": "12",
+    "imagePath": "./assets/images/skyHorror.png"
+  },
+  {
+    "name": "Sky Cinema",
+    "type": "Movies",
+    "description": "Ideal for the movies lover, all the movies, all day. Now in HD",
+    "monthlyCost": "30",
+    "contractLength": "12",
+    "imagePath": "./assets/images/skyCinema.png"
+  }
+]
